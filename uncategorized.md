@@ -28,4 +28,6 @@ HumanoidではないMaterial(=しっぽやけもみみなどの装飾品)に対�
 
 ## Action
 
+他のAnimationの動作をすべて上書きする．
+
 ## Fx
